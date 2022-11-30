@@ -20,16 +20,37 @@ My "superpowers" are:
 - I care about consistency across products and look for ways to manage reusable content and avoid duplication.
 - I enjoy automating tests and repetitive tasks.
 
-## Cover intro
+## Cover intros
+
+### 1
 
 Please consider my application for  at . You'll see in my profile and resume that I have experience working remotely and cross-team to produce high quality documentation for multiple interfaces and use cases. I also bring extensive experience as a scrum team lead and software engineer.
 
 My three "superpowers" are:
 - Advocating for quality and best practices.
-- Stakeholder influence and collaboration.
+- Team support and collaboration.
 - Sweating the details.
 
 I would love to discuss this role or other roles in technical writing or developer relations at .
+
+Best,
+Jason
+
+### 2
+
+Please consider my application for Documentation Engineer. I'm seeking a team where I can lead and contribute code and technical writing to create great documentation. You'll find my experience and strengths well-suited to this role. Some of my relevant experience includes:
+
+- Creating API technical documentation and developer guides for the leading time series database.
+- Developing and supporting a mission-critical financial payments and receivables application that processes millions of dollars per day.
+- Working remotely and cross-team to produce high quality documentation and tested software for multiple interfaces and use cases. 
+
+I consider the following to be my top three strengths:
+
+- Advocating for quality and best practices.
+- Team support and collaboration.
+- Sweating the details.
+
+I would love to discuss the Documentation Engineer role or other roles in technical writing or developer relations at .
 
 Best,
 Jason
